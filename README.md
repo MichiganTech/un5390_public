@@ -11,11 +11,8 @@ What is this NOT for?
 
   01. No sensitive information
 
-  02. No course work related material
-
-  03. No assignments
-
-  04. No projects
+  02. No course related material -- course slides, assignments, projects,
+      submissions, and so on
 
 
 What is this for?
