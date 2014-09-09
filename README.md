@@ -11,7 +11,7 @@ What is this NOT for?
 
   01. Sensitive information of any kind
 
-  02. Course related material of any king -- course slides, assignments, 
+  02. Course related material of any kind -- course slides, assignments, 
       projects, submissions, etc.
 
 
