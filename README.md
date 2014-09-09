@@ -29,12 +29,25 @@ What is this for?
 
       C. Shell scripts and programs
 
-      Put them under the ```john``` folder.
+      Put them under the ```john``` folder (replace ```john``` with your own
+      Michigan Tech ISO username).
 
   03. Collaborative learning
 
-      If ```john``` and ```jill``` are working together, then make a folder called ```jill_john```, and keep relevant stuff inside that folder.
+      If ```john``` and ```jill``` are working together, then make a folder called ```jill_john```, and keep relevant stuff inside that folder. Replace ```john``` and ```jill``` with appropriate Michigan Tech ISO usernames.
 
   04. To make a gource animation of the commit history
 
 Contents of this repository are not moderated. Anyone can clone this repository and make changes.
+
+
+Instructor information
+-------------------
+
+Gowtham            
+Director of Research Computing, IT           
+Adj. Asst. Professor, Physics/ECE              
+Michigan Technological University               
+Email: g@mtu.edu           
+http://hpc.mtu.edu              
+http://sgowtham.com    
