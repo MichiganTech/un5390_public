@@ -12,7 +12,7 @@ What is this NOT for?
   01. Sensitive information of any kind
 
   02. Course related material of any king -- course slides, assignments, 
-      projects, submissions, and so on
+      projects, submissions, etc.
 
 
 What is this for?
