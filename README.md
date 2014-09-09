@@ -9,10 +9,10 @@ Cross listed as PH4390: Computational Methods
 What is this NOT for?
 -------------------
 
-  01. No sensitive information
+  01. Sensitive information of any kind
 
-  02. No course related material -- course slides, assignments, projects,
-      submissions, and so on
+  02. Course related material of any king -- course slides, assignments, 
+      projects, submissions, and so on
 
 
 What is this for?
