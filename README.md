@@ -36,7 +36,7 @@ What is this for?
 
   03. Collaborative learning
 
-      If ```john``` and ```jill`` are working together, make a folder called ```jill_john```
+      If ```john``` and ```jill``` are working together, make a folder called ```jill_john```
 
   04. To make a gource animation of the commit history
 
