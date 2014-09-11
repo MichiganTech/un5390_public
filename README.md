@@ -36,7 +36,7 @@ What is this for?
 
       If ```john``` and ```jill``` are working together, then make a folder called ```jill_john```, and keep relevant stuff inside that folder. Replace ```john``` and ```jill``` with appropriate Michigan Tech ISO usernames.
 
-  04. To make a gource animation of the commit history
+  04. To make a ```gource``` animation of the commit history
 
 Contents of this repository are not moderated. Anyone can clone this repository and make changes.
 
