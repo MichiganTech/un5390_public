@@ -30,12 +30,7 @@ What is this for?
 
       C. Shell scripts and programs
 
-      Put them under the ```john``` folder (replace ```john``` with your own
-      Michigan Tech ISO username).
-
   03. Collaborative learning
-
-      If ```john``` and ```jill``` are working together, then make a folder called ```jill_john```, and keep relevant stuff inside that folder. Replace ```john``` and ```jill``` with appropriate Michigan Tech ISO usernames.
 
   04. To make a ```gource``` animation of the commit history
 
