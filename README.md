@@ -5,7 +5,7 @@ Fall 2014, Fall 2015
 Michigan Technological University        
 Cross listed in Fall 2014 as PH4390: Computational Methods           
 Cross listed in Fall 2015 as BE5390 and EE5390           
-
+DO NOT EDIT THE README.MD FILE
 
 What is this NOT for?
 -------------------
