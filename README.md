@@ -1,9 +1,10 @@
 UN5390: Scientific Computing I         
 -------------------
 
-Fall 2014             
+Fall 2014, Fall 2015  
 Michigan Technological University        
-Cross listed as PH4390: Computational Methods           
+Cross listed in Fall 2014 as PH4390: Computational Methods           
+Cross listed in Fall 2015 as BE5390 and EE5390           
 
 
 What is this NOT for?
@@ -44,7 +45,7 @@ Contents of this repository are not moderated. Anyone can clone this repository 
 Instructor information
 -------------------
 
-Gowtham            
+Dr. Gowtham, PhD            
 Director of Research Computing, IT           
 Adj. Asst. Professor, Physics/ECE              
 Michigan Technological University               
